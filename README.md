@@ -1,5 +1,6 @@
 # PCI_parse
 Parse gnmap file for the creation of Network Segmentation Testing Report Tables
+![Screenshot](https://github.com/syedumerqadri/PCI_parse/blob/master/116883287_293210902104185_2979518694815754093_n.png)
 
 ## Install:
 1. git clone https://github.com/syedumerqadri/PCI_parse
