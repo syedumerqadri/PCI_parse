@@ -12,7 +12,7 @@ Parse gnmap file for the creation of Network Segmentation Testing Report Tables
 ## Guide for Internal Network Segmentation Testing:
 
 1. Perform nmap scan in following format:
-nmap -sS -p - -iL <scope_hosts> -oA /your/dir/
+nmap -sS -p - -iL <scope_hosts> -oG output.gnmap
 
 2. Grab .gnmap file and create report using command:
 
