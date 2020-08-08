@@ -6,6 +6,7 @@ Parse gnmap file for the creation of Network Segmentation Testing Report Tables
 2. cd PCI_parse
 3. chmod +x install.sh
 4. ./install
+5. chmod +x .sh
 
 ## Guide for Internal Network Segmentation Testing:
 
